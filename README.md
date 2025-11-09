@@ -10,3 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRInge89&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👋 Hi, I’m @HarshitRinge89
+- 👀 I’m interested in All things that Beep-Boop
+- 🌱 I’m currently learning About Java,C++, Python, Web Developement , Data Structures and Algorithms 
+- 💞️ I’m looking to collaborate on ... anything that i know about I will try to work on it and contribute for betterment 
+- 📫 How to reach me: harshit.ringe@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have No Friends,Nobody likes me
